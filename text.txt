@@ -1,1 +1,4 @@
 This is my first git text project
+The git is very usefull for programmers to track the code and secnorise the code
+the git is wonderful to use which was created ny linux lorete 
+and developed by microsoft 
